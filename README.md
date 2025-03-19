@@ -11,3 +11,16 @@
 <!--
 - ⚡ Fun fact: ...
 -->
+
+## Languages & Tools
+
+<ul>
+  <li>JavaScript</li>
+  <li>React.js</li>
+  <li>Python</li>
+  <li>Flask</li>
+  <li>SQL(SQLite, SQLAlchemy)</li>
+  <li>Data Visualization with Python</li>
+  <li>C/C++</li>
+  <li>Java</li>
+</ul>
