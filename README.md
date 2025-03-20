@@ -17,6 +17,7 @@
 <ul>
   <li>JavaScript</li>
   <li>React.js</li>
+  <li>Git & GitHub Collaboration</li>
   <li>Python</li>
   <li>Flask</li>
   <li>SQL(SQLite, SQLAlchemy)</li>
