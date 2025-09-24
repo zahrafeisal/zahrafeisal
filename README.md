@@ -20,6 +20,6 @@
   <li>Git & GitHub Collaboration</li>
   <li>Python</li>
   <li>Flask</li>
-  <li>SQL(SQLite, SQLAlchemy)</li>
+  <li>MySQL</li>
   <li>HTML & CSS</li>
 </ul>
