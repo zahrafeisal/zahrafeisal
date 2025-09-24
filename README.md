@@ -21,7 +21,5 @@
   <li>Python</li>
   <li>Flask</li>
   <li>SQL(SQLite, SQLAlchemy)</li>
-  <li>C/C++</li>
-  <li>Java</li>
   <li>HTML & CSS</li>
 </ul>
