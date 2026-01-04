@@ -4,8 +4,8 @@
 
 ## About Me
 
-- 🔭 I’m currently working on Full-Stack Software Development projects
-- 🌱 I’m currently learning Data Science
+- 🔭 I’m currently working on projects that solve real-world problems
+- 🌱 I’m currently learning Data Science & Analytics
 - 🤔 I’m seeking help developing my data analytics and machine learning skills.
 - 📫 How to reach me: 📩[zahrafeisal3@gmail.com](mailto:zahrafeisal3@gmail.com)
 <!--
