@@ -1,6 +1,9 @@
-## *Hi, I'm Zahra* 👋
+## *Hi, I'm Zahra Feisal* 👋
 
-# Welcome to my GitHub Profile!
+# Data Scientist | Software Developer
+<i>Turning Big Data into insightful stories, one data set at a time. </i>📊📈
+
+---
 
 ## About Me
 
@@ -12,14 +15,35 @@
 - ⚡ Fun fact: ...
 -->
 
-## Languages & Tools
+## 🛠️ Tech Stack 
+
+### 📌 Languages
 
 <ul>
-  <li>JavaScript</li>
-  <li>React.js</li>
-  <li>Git & GitHub Collaboration</li>
   <li>Python</li>
+  <li>SQL</li>
+  <li>JavaScript</li>
+</ul>
+
+### ⚙️ Frameworks & Libraries
+
+<ul>
+  <li>NumPy</li>
+  <li>Matplotlib</li>
+  <li>Pandas</li>
+  <li>React</li>
   <li>Flask</li>
-  <li>MySQL</li>
-  <li>HTML & CSS</li>
+</ul>
+
+### 📊 Data Visualization Tools
+
+<ul>
+  <li>MS Excel (Data Cleaning, Pivot Tables and Charts)</li>
+  <li>Tableau</li>
+</ul>
+
+### Version Control
+
+<ul>
+  <li>Git</li>
 </ul>
