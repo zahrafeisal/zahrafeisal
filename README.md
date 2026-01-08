@@ -1,6 +1,6 @@
 ## *Hi, I'm Zahra Feisal* 👋
 
-# Data Scientist | Software Developer
+# Data Scientist | Backend Developer
 <i>Turning Big Data into insightful stories, one data set at a time. </i>📊📈
 
 ---
